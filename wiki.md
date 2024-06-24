@@ -13,4 +13,4 @@ This wiki page contains:
 5. A list
 
 ### Header 4
-This is a image of ![UW campus]()
+This is a image of ocean. ![ocean](https://github.com/AngelYu990/AngelYu990.github.io./blob/main/IMG_3517.png)
